@@ -1,0 +1,4 @@
+SELECT * from gt_db.demandnotice where DemandNoticeNo = "GT/2020/9585";
+
+To delete double demand generate:
+SELECT * from gt_db.demandnotice where demandnoticeno = "GT/2020/9585"
